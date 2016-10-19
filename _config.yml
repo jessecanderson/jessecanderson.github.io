@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "/img/intro-background.jpg"
+background-img: "../img/intro-background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -104,7 +104,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "jessecanderson"
 
 syntax-highlight: True
 
