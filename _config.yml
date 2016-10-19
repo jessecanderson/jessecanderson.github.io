@@ -113,9 +113,9 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/pexels-photo-90807.jpeg"
+  - image: "/img/timeline/ruby-logo.png"
     date: "September 2016 - Today"
-    description: "Working on being a DevOps Engineer"
+    description: "Learning Ruby for Chef"
   - image: "/img/timeline/spidertocat.png"
     date: "September 2016"
     description: "Figuring out Jekyll and GitHub Pages blogging."
@@ -124,7 +124,7 @@ events:
     description: "Learning Chef and understanding DevOps"
   - image: "/img/timeline/baracktocat.jpg"
     date: "December 2014 - December 2015"
-    description: "Started coding"
+    description: "Started coding - Still Learning"
 
 # First image of the Timeline
 
