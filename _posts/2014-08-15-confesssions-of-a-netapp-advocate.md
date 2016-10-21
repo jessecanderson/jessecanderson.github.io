@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Confessions of a NetApp Advocate
-category: Category
-tags: [ 'tag1', 'tag2' ]
+category: NetApp A-Team
+tags: [ 'NetApp', 'A-Team' ]
 ---
 
 My name is Jesse, and I’m a NetApp Advocate. What does it mean to be a NetApp Advocate? It means I talk about NetApp so much someone at NetApp noticed and gave me a title. My company is a relatively new NetApp partner, so I actually find myself in the interesting position of advocating for NetApp not only with our customers, but with our internal teams as well.
