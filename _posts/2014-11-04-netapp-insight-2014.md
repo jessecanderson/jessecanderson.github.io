@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: NetApp Insight 2014
 category: NetApp A-Team
 tags: [ 'A-Team', 'NetApp', 'Insight' ]
 ---
