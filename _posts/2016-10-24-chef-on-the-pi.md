@@ -72,7 +72,7 @@ Over the next few steps, I will be going through all that I had to do and what I
 
   After the gem is installed, you should be able to run the chef-client -v command and see the chef-client version:
 
-  ![chef-client-image](img/chef-on-the-pi-img/sockeyes51_2016-Oct-17.jpg "Chef-Client Version Check")
+  ![chef-client-image](/img/chef-on-the-pi-img/sockeyes51_2016-Oct-17.jpg "Chef-Client Version Check")
 
   - Bootstrap!
 
@@ -88,4 +88,4 @@ Over the next few steps, I will be going through all that I had to do and what I
 
   The only gotcha that I have run across is the NTP and time on the Raspberry Pi. For some reason, mine is not updating correctly so I have to manually update the time every now and again to make sure there isn't any error when the chef-client runs. If the time is more then 15 min different, then Chef will error out.
 
-  So, did you have any success bootstrapping your own Raspberry Pi? Did you have to do anything different then what I did? Any hints, help on improving the process? Let me know in the comments and I hope you find this helpful! 
+  So, did you have any success bootstrapping your own Raspberry Pi? Did you have to do anything different then what I did? Any hints, help on improving the process? Let me know in the comments and I hope you find this helpful!
