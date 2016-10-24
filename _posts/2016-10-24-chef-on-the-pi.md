@@ -72,7 +72,7 @@ Over the next few steps, I will be going through all that I had to do and what I
 
   After the gem is installed, you should be able to run the chef-client -v command and see the chef-client version:
 
-  ![chef-client-image](/img/chef-on-the-pi-img/sockeyes51_2016-Oct-17.jpg "Chef-Client Version Check")
+  ![chef-client-image](/img/sockeyes51_2016-Oct-17.jpg "Chef-Client Version Check")
 
   - Bootstrap!
 
