@@ -62,7 +62,7 @@ Over the next few steps, I will be going through all that I had to do and what I
 
   This validated the correct version of Ruby was installed on my Raspberry Pi.
 
-  - Install the Chef Client
+  - <large> Install the Chef Client </large>
 
   The next step was to install the Chef Client.
 
@@ -74,7 +74,7 @@ Over the next few steps, I will be going through all that I had to do and what I
 
   ![chef-client-image](/img/sockeyes51_2016-Oct-17.jpg "Chef-Client Version Check")
 
-  - Bootstrap!
+  - <large> Bootstrap! </large>
 
   From here, you should be able to go to your Chef Workstation and run the following:
 
