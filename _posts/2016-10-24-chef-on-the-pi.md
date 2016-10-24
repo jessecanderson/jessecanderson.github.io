@@ -11,7 +11,7 @@ A few weeks back I decided to replace my older Raspberry Pi for a new Raspberry 
 
 Over the next few steps, I will be going through all that I had to do and what I learned in order to get the Chef Client installed and configured on my Raspberry Pi.
 
-  - <h2> Update Ruby </h2>
+  - <large> Update Ruby </large>
 
   The first thing I had to do was update the version of Ruby that was installed on the Raspberry Pi. To do this, I ran the following commands:
 
