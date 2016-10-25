@@ -9,7 +9,7 @@ There’s no denying that NetApp had a slew of shiny new toys to unveil at this 
 
 Did you guess? It’s DevOps. The fact that NetApp, a $6B industry leader, is making a big deal about it should make you sit up and take notice.
 
-<large>DevOps is a reality at NetApp</large>
+<h1>DevOps is a reality at NetApp</h1>
 
 DevOps (a combination of developer and operations), is an IT philosophy that is geared toward enabling engineers like me to be more productive and efficient. It’s a collaborative way of thinking (think “continuous integration workflow”) that puts developers and IT professionals together to increase automation and accelerate innovation across the board. And if you’re already scared off by the word “automation” and thinking, “Does this ‘DevOps’ thing automate me out of a job?” don’t worry, I’ll unpack that a little more later.
 
