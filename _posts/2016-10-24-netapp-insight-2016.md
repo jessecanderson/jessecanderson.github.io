@@ -9,7 +9,7 @@ There’s no denying that NetApp had a slew of shiny new toys to unveil at this 
 
 Did you guess? It’s DevOps. The fact that NetApp, a $6B industry leader, is making a big deal about it should make you sit up and take notice.
 
-<h1>DevOps is a reality at NetApp</h1>
+<h2>DevOps is a reality at NetApp</h2>
 
 DevOps (a combination of developer and operations), is an IT philosophy that is geared toward enabling engineers like me to be more productive and efficient. It’s a collaborative way of thinking (think “continuous integration workflow”) that puts developers and IT professionals together to increase automation and accelerate innovation across the board. And if you’re already scared off by the word “automation” and thinking, “Does this ‘DevOps’ thing automate me out of a job?” don’t worry, I’ll unpack that a little more later.
 
@@ -21,7 +21,7 @@ When I first got into NetApp technology about five years ago, I remember somebod
 
 Part of this shift, I think, came from the acquisition of SolidFire about a year ago. As a more developer-focused company, I think SolidFire rubbed off on its new parent company, and the effects are apparent. We’re headed toward a future where I don’t have to think about my infrastructure and my storage—it “just works” when and where I need it to—and it’s clear that NetApp is leading the charge.
 
-<large>What this means to you</large>
+<h2>What this means to you</h2>
 
 With all this change happening in the industry, one thing has become apparent: within the next five to ten years, the role of the “administrator” as we know it will be gone. That goes for storage, servers, network, you name it. As hardware becomes a commodity, what differentiates the infrastructure is software.
 
