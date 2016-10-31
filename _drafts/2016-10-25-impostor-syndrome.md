@@ -6,7 +6,7 @@ category: Code
 tags: [ 'personal', 'code', 'career' ]
 ---
 
-I was recently listening to a podcast by [Developer Tea](https://spec.fm/podcasts/developer-tea) when he mentioned something called "impostor syndrome". I had to look it up and even though the Wikipedia didn't define it the way I had it in my mind, it is something that I have felt a lot in my career.
+I wanted to talk about something that I have been dealing with for a while. As I have shifted from technology to technology or new philosophy, I always start off as someone who doesn't feel like they belong. Like an impostor in that technologies environment. I'm getting that feeling right now as I try and break more into the developer space. There is a phrase called "Impostor Syndrome" that I felt was a perfect description of what I felt. I had to look it up and even though the Wikipedia didn't define it the way I had it in my mind, I think the term can still be used as long as we clear up the definition.
 
 I'm going to define Impostor Syndrome as the following:
   - Feeling of inadequacy in your job even though you have worked very hard to learn the skills needed.
@@ -17,4 +17,8 @@ From there, I decided to dive into networking and Cisco. This is where the feeli
 
 After working in the network field for a while I started making the switch to storage networking and storage. This was a company necessity for the company I was with at the time. Here, I did start feeling more like an impostor since I wasn't really a "storage guy" and getting in and telling storage people what was wrong with their SAN and storage appliances.
 
-Over the last couple of years, I've really started putting a bunch of effort into learning to code. This started out with iOS and Swift code and expanded to add in DevOps based technologies and tools such as infrastructure as code platforms like Chef and Puppet. For me, this has been the worst feeling of impostor syndrome as I defined it above. I'm having an issue in really breaking into the area of calling myself a "developer" for either the infrastructure as code platforms or my iOS learning. 
+This brings us to the last few years and I've really started putting a bunch of effort into learning to code. This started out with iOS and Swift code and expanded to add in DevOps based technologies and tools such as infrastructure as code platforms like Chef and Puppet. For me, this has been the worst feeling of impostor syndrome as I defined it above. I'm having an issue in really breaking into the area of calling myself a "developer" for either the infrastructure as code platforms or my iOS learning.
+
+At NetApp Insight there was a "mentor" station available to talk to people about career or life advice. I went to the booth with no expectations and just to see what was said. I spoke with a wonderful person who has made jumps from positions that had very little to do with each other. So, I asked this question "If your working on something, when do you feel comfortable enough to call yourself that?" The idea is, if I'm working on storage, when do I call myself a storage person? Or (in my case) if I'm working on development, when do I call myself a developer? The answer really made sense to me.
+
+When your emotionally invested into this new thing, then call yourself that.
