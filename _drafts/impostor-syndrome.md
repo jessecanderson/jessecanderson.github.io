@@ -22,3 +22,7 @@ This brings us to the last few years and I've really started putting a bunch of 
 At NetApp Insight there was a "mentor" station available to talk to people about career or life advice. I went to the booth with no expectations and just to see what was said. I spoke with a wonderful person who has made jumps from positions that had very little to do with each other. So, I asked this question "If your working on something, when do you feel comfortable enough to call yourself that?" The idea is, if I'm working on storage, when do I call myself a storage person? Or (in my case) if I'm working on development, when do I call myself a developer? The answer really made sense to me.
 
 When your emotionally invested into this new thing, then call yourself that.
+
+This is huge, but still not as easy as it sounds. I feel like an impostor, like I'm breaking into an amazing community and I don't belong at all. I've felt this way before and only gotten over it through time and loads of hard work.
+
+So, how do you fit into your community? When do you start to except that you are a <insert title here>? 
