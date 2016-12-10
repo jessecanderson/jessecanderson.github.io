@@ -26,6 +26,16 @@ This will reach out to the VBR server and grab the ESXi Host with the name "name
 
 Next we will select the datastore to dump our redo logs to:
 
-{% highlight PowerShell %}
+<pre><code data-trim class="Powershell">
 $datastore = Find-VBRVIDatastore -Name "nameOfDatastore" -Server $host
-{% endhighlight %}
+</code></pre>
+
+Here we are selecting the redo logs specific datastore named "nameOfDatastore" from the server "nameOfServer" that we assigned to the variable $host. This makes sure we are on the specific host and don't accidentally grab a datastore from somewhere else.
+
+Finally, let us tie these two things together and create our virtual lab:
+
+<pre><code data-trim class="PowerShell">
+Add-VSBVirtualLab -Name "myAwesomeVirtualLab -Server $host -Datastore $datastore
+</code></pre>
+
+Here is where we actually create the virtual lab using the host we specified earlier as well as the datastore for redo logs.
