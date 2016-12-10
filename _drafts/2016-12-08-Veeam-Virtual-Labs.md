@@ -18,9 +18,9 @@ To do this, you will need to make sure the Veeam PowerShell commands have been i
 
 Let us start with a host to run this on. We will grab a host with the following command:
 
-{% highlight PowerShell %}
+<pre><code data-trim class="Powershell">
 $host = Get-VBRServer -Type ESXi -Name "nameOfServer"
-{% endhighlight %}
+</code></pre>
 
 This will reach out to the VBR server and grab the ESXi Host with the name "nameOfServer". Here, we don't really have to specify a name for the host we want to deploy this to, but just in case you do then you can.
 
