@@ -46,7 +46,7 @@ case false:
 }
 </code></pre>
 
-Grand scheme of things, there is not a huge difference between my two examples. So why would you choose the <b>Switch</b> over the <b>If/Else</b> statement? For most conditional checks, the <b>Switch</b> statement should reduce the amount of code that you have to write. Let us take a more complex example and compare the two of them. Let us say we are checking for a number. We could write <b>If/Else</b> statements with multiple checks to see where that number is at but it could get really messy after a bit using || or && statements and nested <b>If/Else If/Else</b> statements to check for this number in the ranges we need. A <b>Switch</b> statement will check on multiple conditions and a range of conditions in a much cleaner syntax then the <b>If/Else</b> statement.  
+Grand scheme of things, there is not a huge difference between my two examples. So why would you choose the <b>Switch</b> over the <b>If/Else</b> statement? For most conditional checks, the <b>Switch</b> statement should reduce the amount of code that you have to write. Let us take a more complex example and compare the two of them. Let us say we are checking for a number. We could write <b>If/Else</b> statements with multiple checks to see where that number is at but it could get really messy after a bit using "||"" or "&&" statements and nested <b>If/Else If/Else</b> statements to check for this number in the ranges we need. A <b>Switch</b> statement will check on multiple conditions and a range of conditions in a much cleaner syntax then the <b>If/Else</b> statement.  
 
 <pre><code data-trim class="Swift">
 let conditional = 100
@@ -91,4 +91,4 @@ case employmentStatus.intern:
 }
 </code></pre>
 
-I hope you found this useful. <b>If/Else</b> statements have their place and do cool things for conditional workflows. <b>Switch</b> statements can be very powerful though and much easier to read or understand. Hop into your Xcode playgrounds and create a few of them and see what they can do and let me know what you find. I think these things are cool. 
+I hope you found this useful. <b>If/Else</b> statements have their place and do cool things for conditional workflows. <b>Switch</b> statements can be very powerful though and much easier to read or understand. Hop into your Xcode playgrounds and create a few of them and see what they can do and let me know what you find. I think these things are cool.
