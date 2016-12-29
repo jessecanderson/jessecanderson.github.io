@@ -46,7 +46,7 @@ case false:
 }
 </code></pre>
 
-Grand scheme of things, there is not a huge difference between my two examples. So why would you choose the <b>Switch</b> over the <b>If/Else</b> statement? For most conditional checks, the <b>Switch</b> statement should reduce the amount of code that you have to write. Let us take a more complex example and compare the two of them. Let us say we are checking for a number. We could write <b>If/Else</b> statements with multiple checks to see where that number is at but it could get really messy after a bit using "||"" or "&&" statements and nested <b>If/Else If/Else</b> statements to check for this number in the ranges we need. A <b>Switch</b> statement will check on multiple conditions and a range of conditions in a much cleaner syntax then the <b>If/Else</b> statement.  
+Grand scheme of things, there is not a huge difference between my two examples. So why would you choose the <b>Switch</b> over the <b>If/Else</b> statement? For most conditional checks, the <b>Switch</b> statement should reduce the amount of code that you have to write. Let us take a more complex example and compare the two of them. Let us say we are checking for a number. We could write <b>If/Else</b> statements with multiple checks to see where that number is at but it could get really messy after a bit using "and" or "or" statements and nested <b>If/Else If/Else</b> statements to check for this number in the ranges we need. A <b>Switch</b> statement will check on multiple conditions and a range of conditions in a much cleaner syntax then the <b>If/Else</b> statement.  
 
 <pre><code data-trim class="Swift">
 let conditional = 100
