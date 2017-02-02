@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: Back in the groove!
 category: update
 tags: [ 'update', 'personal', 'veeam', 'developer' ]
 ---
@@ -17,4 +17,4 @@ I'm still working on my "developer" title with Ruby and Swift. Chef is still an 
 
 Speaking of iOS, I did create an app! It's not in the app store just yet, but I may throw it up there if I can finish doing the main icon for it. I'm very excited that I was able to complete that though. I was running my own code and it compiled. Yet, I still don't feel comfortable in Swift or Ruby to call myself a developer. LOL, funny how that works. {Not an impostor, I promise!}
 
-Ok, enough of an update. Just know that I am still here and I am still working on cool things. I'm building on what I've learned and I have met some really sharp people who are helping me pull off something really cool. Stay tuned, it's going to be a great year!  
+Ok, enough of an update. Just know that I am still here and I am still working on cool things. I'm building on what I've learned and I have met some really sharp people who are helping me pull off something really cool. Stay tuned, it's going to be a great year!
