@@ -146,7 +146,7 @@ email: "jesse.c.anderson@icloud.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jesse Anderson lives in Florida with his wonder wife and amazing boy. He works as a Cloud Engineer by day, aspiring developer by night."
+author_blurb: "Jesse Anderson lives in Florida with his wonderful wife and amazing boy. He works as a Cloud Engineer by day, aspiring developer by night."
 author_blurb_image: "/img/author.png"
 
 ##################
