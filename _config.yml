@@ -4,7 +4,7 @@
 # NB! Set your site's url, otherwise stuff will break :)
 
 <<<<<<< HEAD
-url: "https://jessecanderson.github.io"
+url: "https://jessecanderson.github.io/jessecanderson.github.io"
 =======
 url: "https://le4ker.github.io"
 >>>>>>> upstream/master
@@ -16,7 +16,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: ""
+baseurl: "/jessecanderson.github.io"
 
 # Google tracking id
 
