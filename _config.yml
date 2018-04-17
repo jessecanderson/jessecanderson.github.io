@@ -3,11 +3,11 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-<<<<<<< HEAD
-url: "https://github.com/jessecanderson/jessecanderson.github.io"
-=======
-url: "https://le4ker.github.io"
->>>>>>> upstream/master
+#<<<<<<< HEAD
+#url: "https://github.com/jessecanderson/jessecanderson.github.io"
+#=======
+#url: "https://le4ker.github.io"
+#>>>>>>> upstream/master
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -16,7 +16,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: "/jessecanderson.github.io"
+baseurl: "https://jessecanderson.github.io"
 
 # Google tracking id
 
