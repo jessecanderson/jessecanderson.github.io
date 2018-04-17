@@ -6,7 +6,7 @@ category: health
 tags: [ 'personal', 'career', 'update'  ]
 ---
 
-I have been a Solution Architect at AWS for just at 10 months now and during that time I have pushed myself to learn two skills at the same time.
+I have been a Solution Architect at AWS for just over 10 months now and during that time I have pushed myself to learn two skills at the same time.
 
 First, AWS. Coming from a more traditional background, learning AWS and how things are architected in the cloud was an amazing challenge. I'm no expert by any means, but I've learned SO much over the last few months on cloud, cloud compute, different design patterns, and always planing for failure. I've always tried to architect my infrastructure in a highly available way, but with cloud options, you can do highly available so much more efficiently then anything I was able to build traditional due to lack of resources and the high cost of trying to implement these technologies myself. AWS allows you to really rethink high available architecture without breaking a bank and scaling global in a matter of minutes instead of days or weeks or even months.
 
@@ -26,6 +26,6 @@ Look for me and my bot to be more social, I have plans for him to get fun update
 
 I'm also digging into web development. I'm learning Swift still, but will be branching out into other languages as soon as I figure out how much time I really have. Expect that to show up, in containers, on my cluster.
 
-So that is where I am at. I'm fixing myself, and hope to be back to 100% awesome me before to long. Lessons have been learned, and steps are being taken to focus on me.
+So that is where I am at. I’m working on how I see myself, and hope to be back to seeing the Awesome Me before too long. Lessons have been learned, and steps are being taken to focus on me.
 
-My advice on this whole thing? Take care of yourself. Mental health is no joke and can really affect you in ways you may never have understood or guessed. 
+My advice on this whole thing? Take care of yourself. Mental health is no joke and can really affect you in ways you may never have understood or guessed.
