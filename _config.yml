@@ -67,7 +67,8 @@ lines: # You can add HTML Tags in the Text
   - text: "You don't have to be great to start, but you do have to start to be great."
   - text: "You can't cross the sea merely by standing and staring at the water. Rabindranath Tagore"
   - text: "All our dreams can come true if we have the courage to pursue them. Walt Disney"
-  - text: "Knowing is not enough; we must apply. Willing is not enough; we must do. —Johann Wolfgang Von Goethe"
+  - text: "Knowing is not enough; we must apply. Willing is not enough; we must do. Johann Wolfgang Von Goethe"
+  - text: "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self. Ernest Hemingway" 
 
 me-img: "/img/codercat.jpg"
 
