@@ -6,4 +6,4 @@ category: netapp a-team
 tags: [ 'a-team', 'netapp', 'devops'  ]
 ---
 
-Next week is NetApp Insight, and this will be my second year missing it.
+This week is NetApp Insight, and this will be my second year missing it.
